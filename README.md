@@ -1,17 +1,13 @@
 # stopwatch
 
-A new Flutter project.
+My project to relearn Flutter in 2023.
+Using Flutter 3.0.
+Learning from Flutter Cookbook by Simone Alessandria
 
-## Getting Started
+This is a simple app. 
+A stopwatch with stop, start and reset buttons
+A ListTile widget at the bottom to display all the laps.
 
-This project is a starting point for a Flutter application.
+The main things I've learned from this app is managing states as well as refactoring (extract Method is awesome!) since the program has finally grown to be larger than 100-200 lines. 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # flutter-stopwatch
